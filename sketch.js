@@ -19,7 +19,7 @@ function setup() {  // this function runs only once while running
     posenet.on('pose', recievedPoses);
 
     actor_img = loadImage('images/shahrukh.png');
-    specs = loadImage('images/spects.png');
+    specs = loadImage('images/gafas.png');
     smoke = loadImage('images/cigar.png');
 }
 
